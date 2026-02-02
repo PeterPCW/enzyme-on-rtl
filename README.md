@@ -4,7 +4,6 @@
 
 [![npm version](https://img.shields.io/npm/v/enzyme-on-rtl)](https://npmjs.com/package/enzyme-on-rtl)
 [![License MIT](https://img.shields.io/npm/l/enzyme-on-rtl)](LICENSE)
-[![Test Status](https://img.shields.io/badge/tests-22%2F22-green)]()
 
 ---
 
