@@ -2,8 +2,10 @@
 
 **Automated migration from Enzyme to React Testing Library.**
 
-[![npm version](https://img.shields.io/npm/v/enzyme-on-rtl)](https://npmjs.com/package/enzyme-on-rtl)
-[![License MIT](https://img.shields.io/npm/l/enzyme-on-rtl)](LICENSE)
+[![NPM Package](https://img.shields.io/npm/v/enzyme-on-rtl.svg)](https://www.npmjs.com/package/enzyme-on-rtl)
+[![NPM Downloads](https://img.shields.io/npm/dm/enzyme-on-rtl.svg)](https://www.npmjs.com/package/enzyme-on-rtl)
+[![License](https://img.shields.io/npm/l/enzyme-on-rtl.svg)](LICENSE)
+
 
 ---
 
